@@ -2,4 +2,4 @@
 .NET Design Patterns, by Packt
 
 
-This repository will be moved to https://github.com/PacktPublishing once the title gets published.
+The updated repository has been moved to https://github.com/PacktPublishing/.NET-Design-Patterns. 
